@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Krishnakant
-- 👀 I’m interested in AI, Machine Learning, Deep Learning and NLP.
-- 🌱 I’m learning advanced machine learning techniques and developing large language models.
-- 📚 I'm pursuing a B.Tech in Engineering Physics at Indian Institute of Technology, Patna.
+
